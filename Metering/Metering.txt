@@ -17,3 +17,5 @@ file type
 
 reinstall jenkins
 
+set user
+
