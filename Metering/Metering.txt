@@ -19,3 +19,5 @@ reinstall jenkins
 
 set user
 
+web hook
+
