@@ -15,3 +15,5 @@ local host
 
 file type
 
+reinstall jenkins
+
